@@ -1,0 +1,7 @@
+From the Professor:
+
+After the exploratory data analysis, hypothesis testing will be more convincing than using plot to make conclusion. Do you have other tools that take a further look at your data?
+
+Will the policy of forehand governer inluence the spending for several years? How do you find out this? 
+
+You'll have to be very careful about eliminating duplicate records for the numbers to add up and make sense.
