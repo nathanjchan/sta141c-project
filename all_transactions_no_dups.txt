@@ -1,0 +1,5 @@
+srun --pty -p staclass bash -i
+module load bio
+sqlite3 -header -csv /scratch/usaspending.sqlite
+
+SELECT 
