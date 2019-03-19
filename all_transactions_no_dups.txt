@@ -1,5 +1,36 @@
+# access worker node
 srun --pty -p staclass bash -i
-module load bio
-sqlite3 -header -csv /scratch/usaspending.sqlite
 
-SELECT 
+# load sql
+module load bio
+
+# load python
+module load python3
+
+# get into python
+ipython3
+
+# test command
+sqlite3 /scratch/usaspending.sqlite
+
+# get tables in database
+.tables
+
+# get column names for a specific table
+pragma table_info(table_name);
+
+# get relevant columns without duplicates
+select distinct fiscal_year, awarding_agency_id, total_obligation
+from awards
+
+# save query as csv file
+# https://stackoverflow.com/questions/6076984/sqlite-how-do-i-save-the-result-of-a-query-as-a-csv-file
+.mode csv
+.output file_name.csv
+select distinct fiscal_year, create_date, awarding_agency_id, total_obligation
+from awards
+.output stdout
+
+# select agencies with certain functions
+select toptier_agency_id from toptier_agency where mission like "%education%";
+
