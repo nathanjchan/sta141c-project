@@ -1,0 +1,1473 @@
+,id,toptier_agency_id,toptier_agency_name,COFOG,COFOG_name
+0,2,1,,,
+1,33,8,The Judicial Branch,3.0,Public order and safety
+2,34,8,The Judicial Branch,3.0,Public order and safety
+3,35,8,The Judicial Branch,3.0,Public order and safety
+4,36,8,The Judicial Branch,3.0,Public order and safety
+5,37,8,The Judicial Branch,3.0,Public order and safety
+6,38,8,The Judicial Branch,3.0,Public order and safety
+7,39,8,The Judicial Branch,3.0,Public order and safety
+8,40,8,The Judicial Branch,3.0,Public order and safety
+9,41,8,The Judicial Branch,3.0,Public order and safety
+10,42,8,The Judicial Branch,3.0,Public order and safety
+11,43,8,The Judicial Branch,3.0,Public order and safety
+12,44,8,The Judicial Branch,3.0,Public order and safety
+13,45,8,The Judicial Branch,3.0,Public order and safety
+14,46,8,The Judicial Branch,3.0,Public order and safety
+15,47,8,The Judicial Branch,3.0,Public order and safety
+16,48,9,Executive Office of the President,1.0,General public services
+17,49,9,Executive Office of the President,1.0,General public services
+18,50,9,Executive Office of the President,1.0,General public services
+19,51,9,Executive Office of the President,1.0,General public services
+20,52,9,Executive Office of the President,1.0,General public services
+21,53,9,Executive Office of the President,1.0,General public services
+22,54,9,Executive Office of the President,1.0,General public services
+23,55,9,Executive Office of the President,1.0,General public services
+24,56,9,Executive Office of the President,1.0,General public services
+25,57,9,Executive Office of the President,1.0,General public services
+26,58,9,Executive Office of the President,1.0,General public services
+27,59,9,Executive Office of the President,1.0,General public services
+28,60,9,Executive Office of the President,1.0,General public services
+29,61,9,Executive Office of the President,1.0,General public services
+30,62,9,Executive Office of the President,1.0,General public services
+31,63,9,Executive Office of the President,1.0,General public services
+32,64,9,Executive Office of the President,1.0,General public services
+33,65,9,Executive Office of the President,1.0,General public services
+34,66,9,Executive Office of the President,1.0,General public services
+35,67,10,African Development Foundation,1.0,General public services
+36,68,11,Inter-American Foundation,1.0,General public services
+37,69,9,Executive Office of the President,1.0,General public services
+38,70,9,Executive Office of the President,1.0,General public services
+39,71,9,Executive Office of the President,1.0,General public services
+40,73,9,Executive Office of the President,1.0,General public services
+41,74,9,Executive Office of the President,1.0,General public services
+42,75,9,Executive Office of the President,1.0,General public services
+43,76,9,Executive Office of the President,1.0,General public services
+44,77,9,Executive Office of the President,1.0,General public services
+45,78,9,Executive Office of the President,1.0,General public services
+46,79,9,Executive Office of the President,1.0,General public services
+47,80,9,Executive Office of the President,1.0,General public services
+48,81,9,Executive Office of the President,1.0,General public services
+49,82,9,Executive Office of the President,1.0,General public services
+50,83,9,Executive Office of the President,1.0,General public services
+51,84,9,Executive Office of the President,1.0,General public services
+52,85,9,Executive Office of the President,1.0,General public services
+53,86,9,Executive Office of the President,1.0,General public services
+54,87,9,Executive Office of the President,1.0,General public services
+55,88,9,Executive Office of the President,1.0,General public services
+56,89,12,Peace Corps,1.0,General public services
+57,90,13,United States Trade and Development Agency,1.0,General public services
+58,91,9,Executive Office of the President,1.0,General public services
+59,92,9,Executive Office of the President,1.0,General public services
+60,93,9,Executive Office of the President,1.0,General public services
+61,94,9,Executive Office of the President,1.0,General public services
+62,95,14,Department of Agriculture,4.0,Economic affairs
+63,96,14,Department of Agriculture,4.0,Economic affairs
+64,97,14,Department of Agriculture,4.0,Economic affairs
+65,98,14,Department of Agriculture,4.0,Economic affairs
+66,99,14,Department of Agriculture,4.0,Economic affairs
+67,100,14,Department of Agriculture,4.0,Economic affairs
+68,101,14,Department of Agriculture,4.0,Economic affairs
+69,102,14,Department of Agriculture,4.0,Economic affairs
+70,103,14,Department of Agriculture,4.0,Economic affairs
+71,104,14,Department of Agriculture,4.0,Economic affairs
+72,105,14,Department of Agriculture,4.0,Economic affairs
+73,106,14,Department of Agriculture,4.0,Economic affairs
+74,107,14,Department of Agriculture,4.0,Economic affairs
+75,108,14,Department of Agriculture,4.0,Economic affairs
+76,109,14,Department of Agriculture,4.0,Economic affairs
+77,110,14,Department of Agriculture,4.0,Economic affairs
+78,111,14,Department of Agriculture,4.0,Economic affairs
+79,112,14,Department of Agriculture,4.0,Economic affairs
+80,113,14,Department of Agriculture,4.0,Economic affairs
+81,114,14,Department of Agriculture,4.0,Economic affairs
+82,115,14,Department of Agriculture,4.0,Economic affairs
+83,116,14,Department of Agriculture,4.0,Economic affairs
+84,117,14,Department of Agriculture,4.0,Economic affairs
+85,118,14,Department of Agriculture,4.0,Economic affairs
+86,119,14,Department of Agriculture,4.0,Economic affairs
+87,120,14,Department of Agriculture,4.0,Economic affairs
+88,121,14,Department of Agriculture,4.0,Economic affairs
+89,122,14,Department of Agriculture,4.0,Economic affairs
+90,123,14,Department of Agriculture,4.0,Economic affairs
+91,124,14,Department of Agriculture,4.0,Economic affairs
+92,125,14,Department of Agriculture,4.0,Economic affairs
+93,126,14,Department of Agriculture,4.0,Economic affairs
+94,127,14,Department of Agriculture,4.0,Economic affairs
+95,128,14,Department of Agriculture,4.0,Economic affairs
+96,129,14,Department of Agriculture,4.0,Economic affairs
+97,130,14,Department of Agriculture,4.0,Economic affairs
+98,131,14,Department of Agriculture,4.0,Economic affairs
+99,132,14,Department of Agriculture,4.0,Economic affairs
+100,133,14,Department of Agriculture,4.0,Economic affairs
+101,134,14,Department of Agriculture,4.0,Economic affairs
+102,135,14,Department of Agriculture,4.0,Economic affairs
+103,136,14,Department of Agriculture,4.0,Economic affairs
+104,137,14,Department of Agriculture,4.0,Economic affairs
+105,138,14,Department of Agriculture,4.0,Economic affairs
+106,139,14,Department of Agriculture,4.0,Economic affairs
+107,140,14,Department of Agriculture,4.0,Economic affairs
+108,141,14,Department of Agriculture,4.0,Economic affairs
+109,142,14,Department of Agriculture,4.0,Economic affairs
+110,3,1,,,
+111,143,14,Department of Agriculture,4.0,Economic affairs
+112,144,14,Department of Agriculture,4.0,Economic affairs
+113,145,14,Department of Agriculture,4.0,Economic affairs
+114,146,14,Department of Agriculture,4.0,Economic affairs
+115,147,14,Department of Agriculture,4.0,Economic affairs
+116,148,14,Department of Agriculture,4.0,Economic affairs
+117,149,14,Department of Agriculture,4.0,Economic affairs
+118,150,14,Department of Agriculture,4.0,Economic affairs
+119,151,14,Department of Agriculture,4.0,Economic affairs
+120,152,14,Department of Agriculture,4.0,Economic affairs
+121,153,14,Department of Agriculture,4.0,Economic affairs
+122,154,14,Department of Agriculture,4.0,Economic affairs
+123,155,14,Department of Agriculture,4.0,Economic affairs
+124,156,14,Department of Agriculture,4.0,Economic affairs
+125,157,14,Department of Agriculture,4.0,Economic affairs
+126,158,14,Department of Agriculture,4.0,Economic affairs
+127,159,14,Department of Agriculture,4.0,Economic affairs
+128,160,14,Department of Agriculture,4.0,Economic affairs
+129,161,14,Department of Agriculture,4.0,Economic affairs
+130,162,14,Department of Agriculture,4.0,Economic affairs
+131,163,14,Department of Agriculture,4.0,Economic affairs
+132,164,14,Department of Agriculture,4.0,Economic affairs
+133,165,14,Department of Agriculture,4.0,Economic affairs
+134,166,14,Department of Agriculture,4.0,Economic affairs
+135,167,14,Department of Agriculture,4.0,Economic affairs
+136,168,14,Department of Agriculture,4.0,Economic affairs
+137,169,14,Department of Agriculture,4.0,Economic affairs
+138,170,14,Department of Agriculture,4.0,Economic affairs
+139,171,14,Department of Agriculture,4.0,Economic affairs
+140,172,14,Department of Agriculture,4.0,Economic affairs
+141,173,14,Department of Agriculture,4.0,Economic affairs
+142,174,14,Department of Agriculture,4.0,Economic affairs
+143,175,14,Department of Agriculture,4.0,Economic affairs
+144,176,14,Department of Agriculture,4.0,Economic affairs
+145,177,14,Department of Agriculture,4.0,Economic affairs
+146,178,14,Department of Agriculture,4.0,Economic affairs
+147,179,14,Department of Agriculture,4.0,Economic affairs
+148,180,14,Department of Agriculture,4.0,Economic affairs
+149,181,14,Department of Agriculture,4.0,Economic affairs
+150,182,14,Department of Agriculture,4.0,Economic affairs
+151,183,15,Department of Commerce,4.0,Economic affairs
+152,184,15,Department of Commerce,4.0,Economic affairs
+153,185,15,Department of Commerce,4.0,Economic affairs
+154,186,15,Department of Commerce,4.0,Economic affairs
+155,187,15,Department of Commerce,4.0,Economic affairs
+156,188,15,Department of Commerce,4.0,Economic affairs
+157,189,15,Department of Commerce,4.0,Economic affairs
+158,190,15,Department of Commerce,4.0,Economic affairs
+159,191,15,Department of Commerce,4.0,Economic affairs
+160,192,15,Department of Commerce,4.0,Economic affairs
+161,193,15,Department of Commerce,4.0,Economic affairs
+162,194,15,Department of Commerce,4.0,Economic affairs
+163,195,15,Department of Commerce,4.0,Economic affairs
+164,196,15,Department of Commerce,4.0,Economic affairs
+165,197,15,Department of Commerce,4.0,Economic affairs
+166,198,15,Department of Commerce,4.0,Economic affairs
+167,199,15,Department of Commerce,4.0,Economic affairs
+168,200,15,Department of Commerce,4.0,Economic affairs
+169,201,15,Department of Commerce,4.0,Economic affairs
+170,202,15,Department of Commerce,4.0,Economic affairs
+171,203,15,Department of Commerce,4.0,Economic affairs
+172,204,15,Department of Commerce,4.0,Economic affairs
+173,205,15,Department of Commerce,4.0,Economic affairs
+174,206,15,Department of Commerce,4.0,Economic affairs
+175,207,15,Department of Commerce,4.0,Economic affairs
+176,208,15,Department of Commerce,4.0,Economic affairs
+177,209,16,Department of the Interior,1.0,General public services
+178,210,16,Department of the Interior,1.0,General public services
+179,211,16,Department of the Interior,1.0,General public services
+180,212,16,Department of the Interior,1.0,General public services
+181,213,16,Department of the Interior,1.0,General public services
+182,214,16,Department of the Interior,1.0,General public services
+183,215,16,Department of the Interior,1.0,General public services
+184,216,16,Department of the Interior,1.0,General public services
+185,217,16,Department of the Interior,1.0,General public services
+186,218,16,Department of the Interior,1.0,General public services
+187,219,16,Department of the Interior,1.0,General public services
+188,220,16,Department of the Interior,1.0,General public services
+189,221,16,Department of the Interior,1.0,General public services
+190,222,16,Department of the Interior,1.0,General public services
+191,223,16,Department of the Interior,1.0,General public services
+192,224,16,Department of the Interior,1.0,General public services
+193,225,16,Department of the Interior,1.0,General public services
+194,226,16,Department of the Interior,1.0,General public services
+195,227,16,Department of the Interior,1.0,General public services
+196,228,16,Department of the Interior,1.0,General public services
+197,229,16,Department of the Interior,1.0,General public services
+198,230,16,Department of the Interior,1.0,General public services
+199,231,16,Department of the Interior,1.0,General public services
+200,232,16,Department of the Interior,1.0,General public services
+201,233,16,Department of the Interior,1.0,General public services
+202,234,16,Department of the Interior,1.0,General public services
+203,235,16,Department of the Interior,1.0,General public services
+204,236,16,Department of the Interior,1.0,General public services
+205,237,16,Department of the Interior,1.0,General public services
+206,238,16,Department of the Interior,1.0,General public services
+207,239,16,Department of the Interior,1.0,General public services
+208,240,16,Department of the Interior,1.0,General public services
+209,241,16,Department of the Interior,1.0,General public services
+210,242,16,Department of the Interior,1.0,General public services
+211,243,16,Department of the Interior,1.0,General public services
+212,244,16,Department of the Interior,1.0,General public services
+213,245,16,Department of the Interior,1.0,General public services
+214,246,16,Department of the Interior,1.0,General public services
+215,247,16,Department of the Interior,1.0,General public services
+216,248,16,Department of the Interior,1.0,General public services
+217,249,16,Department of the Interior,1.0,General public services
+218,250,16,Department of the Interior,1.0,General public services
+219,251,16,Department of the Interior,1.0,General public services
+220,252,17,Department of Justice,3.0,Public order and safety
+221,253,17,Department of Justice,3.0,Public order and safety
+222,4,1,,,
+223,254,17,Department of Justice,3.0,Public order and safety
+224,255,17,Department of Justice,3.0,Public order and safety
+225,256,17,Department of Justice,3.0,Public order and safety
+226,257,17,Department of Justice,3.0,Public order and safety
+227,258,17,Department of Justice,3.0,Public order and safety
+228,259,17,Department of Justice,3.0,Public order and safety
+229,260,17,Department of Justice,3.0,Public order and safety
+230,261,17,Department of Justice,3.0,Public order and safety
+231,262,17,Department of Justice,3.0,Public order and safety
+232,263,17,Department of Justice,3.0,Public order and safety
+233,264,17,Department of Justice,3.0,Public order and safety
+234,265,17,Department of Justice,3.0,Public order and safety
+235,266,17,Department of Justice,3.0,Public order and safety
+236,267,18,Department of Labor,10.0,Social protection
+237,268,18,Department of Labor,10.0,Social protection
+238,269,18,Department of Labor,10.0,Social protection
+239,270,18,Department of Labor,10.0,Social protection
+240,271,18,Department of Labor,10.0,Social protection
+241,272,18,Department of Labor,10.0,Social protection
+242,273,18,Department of Labor,10.0,Social protection
+243,274,18,Department of Labor,10.0,Social protection
+244,275,18,Department of Labor,10.0,Social protection
+245,276,18,Department of Labor,10.0,Social protection
+246,277,18,Department of Labor,10.0,Social protection
+247,278,18,Department of Labor,10.0,Social protection
+248,279,18,Department of Labor,10.0,Social protection
+249,280,18,Department of Labor,10.0,Social protection
+250,281,18,Department of Labor,10.0,Social protection
+251,282,18,Department of Labor,10.0,Social protection
+252,283,18,Department of Labor,10.0,Social protection
+253,284,18,Department of Labor,10.0,Social protection
+254,285,18,Department of Labor,10.0,Social protection
+255,286,18,Department of Labor,10.0,Social protection
+256,287,18,Department of Labor,10.0,Social protection
+257,288,18,Department of Labor,10.0,Social protection
+258,289,18,Department of Labor,10.0,Social protection
+259,290,18,Department of Labor,10.0,Social protection
+260,291,18,Department of Labor,10.0,Social protection
+261,292,18,Department of Labor,10.0,Social protection
+262,293,18,Department of Labor,10.0,Social protection
+263,294,18,Department of Labor,10.0,Social protection
+264,295,18,Department of Labor,10.0,Social protection
+265,296,18,Department of Labor,10.0,Social protection
+266,297,18,Department of Labor,10.0,Social protection
+267,298,18,Department of Labor,10.0,Social protection
+268,299,18,Department of Labor,10.0,Social protection
+269,300,18,Department of Labor,10.0,Social protection
+270,301,18,Department of Labor,10.0,Social protection
+271,302,18,Department of Labor,10.0,Social protection
+272,303,18,Department of Labor,10.0,Social protection
+273,304,18,Department of Labor,10.0,Social protection
+274,305,18,Department of Labor,10.0,Social protection
+275,306,18,Department of Labor,10.0,Social protection
+276,307,18,Department of Labor,10.0,Social protection
+277,308,19,Pension Benefit Guaranty Corporation,10.0,Social protection
+278,309,20,U.S. Postal Service,4.0,Economic affairs
+279,310,20,U.S. Postal Service,4.0,Economic affairs
+280,311,20,U.S. Postal Service,4.0,Economic affairs
+281,312,20,U.S. Postal Service,4.0,Economic affairs
+282,313,20,U.S. Postal Service,4.0,Economic affairs
+283,314,20,U.S. Postal Service,4.0,Economic affairs
+284,315,21,Department of State,1.0,General public services
+285,316,21,Department of State,1.0,General public services
+286,317,21,Department of State,1.0,General public services
+287,318,21,Department of State,1.0,General public services
+288,319,21,Department of State,1.0,General public services
+289,320,21,Department of State,1.0,General public services
+290,321,21,Department of State,1.0,General public services
+291,322,21,Department of State,1.0,General public services
+292,323,21,Department of State,1.0,General public services
+293,324,21,Department of State,1.0,General public services
+294,325,21,Department of State,1.0,General public services
+295,326,21,Department of State,1.0,General public services
+296,327,21,Department of State,1.0,General public services
+297,328,21,Department of State,1.0,General public services
+298,329,21,Department of State,1.0,General public services
+299,330,21,Department of State,1.0,General public services
+300,331,21,Department of State,1.0,General public services
+301,332,21,Department of State,1.0,General public services
+302,333,21,Department of State,1.0,General public services
+303,334,21,Department of State,1.0,General public services
+304,335,21,Department of State,1.0,General public services
+305,336,21,Department of State,1.0,General public services
+306,337,21,Department of State,1.0,General public services
+307,338,21,Department of State,1.0,General public services
+308,339,21,Department of State,1.0,General public services
+309,340,21,Department of State,1.0,General public services
+310,341,21,Department of State,1.0,General public services
+311,342,21,Department of State,1.0,General public services
+312,343,21,Department of State,1.0,General public services
+313,344,21,Department of State,1.0,General public services
+314,345,21,Department of State,1.0,General public services
+315,346,21,Department of State,1.0,General public services
+316,347,21,Department of State,1.0,General public services
+317,348,21,Department of State,1.0,General public services
+318,349,21,Department of State,1.0,General public services
+319,350,21,Department of State,1.0,General public services
+320,351,21,Department of State,1.0,General public services
+321,352,21,Department of State,1.0,General public services
+322,353,21,Department of State,1.0,General public services
+323,354,21,Department of State,1.0,General public services
+324,355,21,Department of State,1.0,General public services
+325,356,21,Department of State,1.0,General public services
+326,357,21,Department of State,1.0,General public services
+327,358,21,Department of State,1.0,General public services
+328,359,21,Department of State,1.0,General public services
+329,360,21,Department of State,1.0,General public services
+330,361,21,Department of State,1.0,General public services
+331,362,21,Department of State,1.0,General public services
+332,363,21,Department of State,1.0,General public services
+333,364,21,Department of State,1.0,General public services
+334,5,1,,,
+335,365,21,Department of State,1.0,General public services
+336,366,21,Department of State,1.0,General public services
+337,367,21,Department of State,1.0,General public services
+338,368,21,Department of State,1.0,General public services
+339,369,21,Department of State,1.0,General public services
+340,370,21,Department of State,1.0,General public services
+341,371,21,Department of State,1.0,General public services
+342,372,21,Department of State,1.0,General public services
+343,373,21,Department of State,1.0,General public services
+344,374,21,Department of State,1.0,General public services
+345,375,21,Department of State,1.0,General public services
+346,376,21,Department of State,1.0,General public services
+347,377,21,Department of State,1.0,General public services
+348,378,21,Department of State,1.0,General public services
+349,379,21,Department of State,1.0,General public services
+350,380,21,Department of State,1.0,General public services
+351,381,21,Department of State,1.0,General public services
+352,382,21,Department of State,1.0,General public services
+353,383,21,Department of State,1.0,General public services
+354,384,21,Department of State,1.0,General public services
+355,385,21,Department of State,1.0,General public services
+356,386,21,Department of State,1.0,General public services
+357,387,21,Department of State,1.0,General public services
+358,388,21,Department of State,1.0,General public services
+359,389,21,Department of State,1.0,General public services
+360,390,21,Department of State,1.0,General public services
+361,391,21,Department of State,1.0,General public services
+362,392,21,Department of State,1.0,General public services
+363,393,21,Department of State,1.0,General public services
+364,394,21,Department of State,1.0,General public services
+365,395,21,Department of State,1.0,General public services
+366,396,21,Department of State,1.0,General public services
+367,397,21,Department of State,1.0,General public services
+368,398,21,Department of State,1.0,General public services
+369,399,21,Department of State,1.0,General public services
+370,400,21,Department of State,1.0,General public services
+371,401,21,Department of State,1.0,General public services
+372,402,21,Department of State,1.0,General public services
+373,403,21,Department of State,1.0,General public services
+374,404,21,Department of State,1.0,General public services
+375,405,21,Department of State,1.0,General public services
+376,406,21,Department of State,1.0,General public services
+377,407,21,Department of State,1.0,General public services
+378,408,21,Department of State,1.0,General public services
+379,409,21,Department of State,1.0,General public services
+380,410,21,Department of State,1.0,General public services
+381,411,21,Department of State,1.0,General public services
+382,412,21,Department of State,1.0,General public services
+383,413,21,Department of State,1.0,General public services
+384,414,21,Department of State,1.0,General public services
+385,415,21,Department of State,1.0,General public services
+386,416,21,Department of State,1.0,General public services
+387,417,21,Department of State,1.0,General public services
+388,418,21,Department of State,1.0,General public services
+389,419,21,Department of State,1.0,General public services
+390,420,21,Department of State,1.0,General public services
+391,421,21,Department of State,1.0,General public services
+392,422,21,Department of State,1.0,General public services
+393,423,21,Department of State,1.0,General public services
+394,424,21,Department of State,1.0,General public services
+395,425,21,Department of State,1.0,General public services
+396,426,21,Department of State,1.0,General public services
+397,427,21,Department of State,1.0,General public services
+398,428,21,Department of State,1.0,General public services
+399,429,21,Department of State,1.0,General public services
+400,430,21,Department of State,1.0,General public services
+401,431,21,Department of State,1.0,General public services
+402,432,21,Department of State,1.0,General public services
+403,433,21,Department of State,1.0,General public services
+404,434,21,Department of State,1.0,General public services
+405,435,21,Department of State,1.0,General public services
+406,436,21,Department of State,1.0,General public services
+407,437,21,Department of State,1.0,General public services
+408,438,21,Department of State,1.0,General public services
+409,439,21,Department of State,1.0,General public services
+410,440,21,Department of State,1.0,General public services
+411,441,21,Department of State,1.0,General public services
+412,442,21,Department of State,1.0,General public services
+413,443,21,Department of State,1.0,General public services
+414,444,21,Department of State,1.0,General public services
+415,445,21,Department of State,1.0,General public services
+416,446,21,Department of State,1.0,General public services
+417,447,21,Department of State,1.0,General public services
+418,448,21,Department of State,1.0,General public services
+419,449,21,Department of State,1.0,General public services
+420,450,21,Department of State,1.0,General public services
+421,451,21,Department of State,1.0,General public services
+422,452,21,Department of State,1.0,General public services
+423,453,21,Department of State,1.0,General public services
+424,454,21,Department of State,1.0,General public services
+425,455,21,Department of State,1.0,General public services
+426,456,22,Department of the Treasury,1.0,General public services
+427,457,22,Department of the Treasury,1.0,General public services
+428,458,22,Department of the Treasury,1.0,General public services
+429,459,22,Department of the Treasury,1.0,General public services
+430,460,22,Department of the Treasury,1.0,General public services
+431,461,22,Department of the Treasury,1.0,General public services
+432,462,22,Department of the Treasury,1.0,General public services
+433,463,22,Department of the Treasury,1.0,General public services
+434,464,22,Department of the Treasury,1.0,General public services
+435,465,22,Department of the Treasury,1.0,General public services
+436,466,22,Department of the Treasury,1.0,General public services
+437,467,22,Department of the Treasury,1.0,General public services
+438,468,22,Department of the Treasury,1.0,General public services
+439,469,22,Department of the Treasury,1.0,General public services
+440,470,22,Department of the Treasury,1.0,General public services
+441,471,22,Department of the Treasury,1.0,General public services
+442,472,22,Department of the Treasury,1.0,General public services
+443,473,22,Department of the Treasury,1.0,General public services
+444,474,22,Department of the Treasury,1.0,General public services
+445,475,22,Department of the Treasury,1.0,General public services
+446,6,2,Architect of the Capitol,1.0,General public services
+447,476,22,Department of the Treasury,1.0,General public services
+448,477,22,Department of the Treasury,1.0,General public services
+449,478,22,Department of the Treasury,1.0,General public services
+450,479,22,Department of the Treasury,1.0,General public services
+451,480,22,Department of the Treasury,1.0,General public services
+452,481,22,Department of the Treasury,1.0,General public services
+453,482,22,Department of the Treasury,1.0,General public services
+454,483,22,Department of the Treasury,1.0,General public services
+455,484,22,Department of the Treasury,1.0,General public services
+456,485,22,Department of the Treasury,1.0,General public services
+457,486,22,Department of the Treasury,1.0,General public services
+458,487,22,Department of the Treasury,1.0,General public services
+459,488,22,Department of the Treasury,1.0,General public services
+460,489,22,Department of the Treasury,1.0,General public services
+461,490,22,Department of the Treasury,1.0,General public services
+462,491,22,Department of the Treasury,1.0,General public services
+463,492,22,Department of the Treasury,1.0,General public services
+464,493,22,Department of the Treasury,1.0,General public services
+465,494,22,Department of the Treasury,1.0,General public services
+466,495,22,Department of the Treasury,1.0,General public services
+467,496,22,Department of the Treasury,1.0,General public services
+468,497,22,Department of the Treasury,1.0,General public services
+469,498,22,Department of the Treasury,1.0,General public services
+470,499,22,Department of the Treasury,1.0,General public services
+471,500,22,Department of the Treasury,1.0,General public services
+472,501,22,Department of the Treasury,1.0,General public services
+473,502,23,U.S. Tax Court,1.0,General public services
+474,503,24,Office of Personnel Management,4.0,Economic affairs
+475,504,24,Office of Personnel Management,4.0,Economic affairs
+476,505,24,Office of Personnel Management,4.0,Economic affairs
+477,506,24,Office of Personnel Management,4.0,Economic affairs
+478,507,24,Office of Personnel Management,4.0,Economic affairs
+479,508,24,Office of Personnel Management,4.0,Economic affairs
+480,509,24,Office of Personnel Management,4.0,Economic affairs
+481,510,24,Office of Personnel Management,4.0,Economic affairs
+482,511,24,Office of Personnel Management,4.0,Economic affairs
+483,512,24,Office of Personnel Management,4.0,Economic affairs
+484,513,24,Office of Personnel Management,4.0,Economic affairs
+485,514,24,Office of Personnel Management,4.0,Economic affairs
+486,515,24,Office of Personnel Management,4.0,Economic affairs
+487,516,24,Office of Personnel Management,4.0,Economic affairs
+488,517,24,Office of Personnel Management,4.0,Economic affairs
+489,518,24,Office of Personnel Management,4.0,Economic affairs
+490,519,24,Office of Personnel Management,4.0,Economic affairs
+491,520,24,Office of Personnel Management,4.0,Economic affairs
+492,521,24,Office of Personnel Management,4.0,Economic affairs
+493,522,24,Office of Personnel Management,4.0,Economic affairs
+494,523,24,Office of Personnel Management,4.0,Economic affairs
+495,524,24,Office of Personnel Management,4.0,Economic affairs
+496,525,24,Office of Personnel Management,4.0,Economic affairs
+497,526,24,Office of Personnel Management,4.0,Economic affairs
+498,527,24,Office of Personnel Management,4.0,Economic affairs
+499,528,24,Office of Personnel Management,4.0,Economic affairs
+500,529,24,Office of Personnel Management,4.0,Economic affairs
+501,530,24,Office of Personnel Management,4.0,Economic affairs
+502,531,24,Office of Personnel Management,4.0,Economic affairs
+503,532,24,Office of Personnel Management,4.0,Economic affairs
+504,533,24,Office of Personnel Management,4.0,Economic affairs
+505,534,24,Office of Personnel Management,4.0,Economic affairs
+506,535,25,National Credit Union Administration,10.0,Social protection
+507,536,25,National Credit Union Administration,10.0,Social protection
+508,537,26,Federal Retirement Thrift Investment Board,10.0,Social protection
+509,538,27,Federal Communications Commission,4.0,Economic affairs
+510,539,28,Social Security Administration,10.0,Social protection
+511,540,28,Social Security Administration,10.0,Social protection
+512,541,28,Social Security Administration,10.0,Social protection
+513,542,28,Social Security Administration,10.0,Social protection
+514,543,28,Social Security Administration,10.0,Social protection
+515,544,28,Social Security Administration,10.0,Social protection
+516,545,28,Social Security Administration,10.0,Social protection
+517,546,28,Social Security Administration,10.0,Social protection
+518,547,28,Social Security Administration,10.0,Social protection
+519,548,28,Social Security Administration,10.0,Social protection
+520,549,28,Social Security Administration,10.0,Social protection
+521,550,28,Social Security Administration,10.0,Social protection
+522,551,28,Social Security Administration,10.0,Social protection
+523,552,29,Federal Trade Commission,4.0,Economic affairs
+524,553,30,Interstate Commerce Commission,4.0,Economic affairs
+525,554,31,Nuclear Regulatory Commission,4.0,Economic affairs
+526,555,32,Smithsonian Institution,8.0,"Recreation, culture and religion"
+527,556,32,Smithsonian Institution,8.0,"Recreation, culture and religion"
+528,557,33,Woodrow Wilson International Center for Scholars,8.0,"Recreation, culture and religion"
+529,558,34,John F. Kennedy Center for the Performing Arts,8.0,"Recreation, culture and religion"
+530,559,35,National Gallery of Art,8.0,"Recreation, culture and religion"
+531,560,36,International Trade Commission,1.0,General public services
+532,561,37,Department of Veterans Affairs,10.0,Social protection
+533,562,37,Department of Veterans Affairs,10.0,Social protection
+534,563,37,Department of Veterans Affairs,10.0,Social protection
+535,564,37,Department of Veterans Affairs,10.0,Social protection
+536,565,37,Department of Veterans Affairs,10.0,Social protection
+537,566,37,Department of Veterans Affairs,10.0,Social protection
+538,567,37,Department of Veterans Affairs,10.0,Social protection
+539,568,37,Department of Veterans Affairs,10.0,Social protection
+540,569,37,Department of Veterans Affairs,10.0,Social protection
+541,570,37,Department of Veterans Affairs,10.0,Social protection
+542,571,37,Department of Veterans Affairs,10.0,Social protection
+543,572,37,Department of Veterans Affairs,10.0,Social protection
+544,573,37,Department of Veterans Affairs,10.0,Social protection
+545,574,37,Department of Veterans Affairs,10.0,Social protection
+546,575,37,Department of Veterans Affairs,10.0,Social protection
+547,576,37,Department of Veterans Affairs,10.0,Social protection
+548,577,37,Department of Veterans Affairs,10.0,Social protection
+549,578,37,Department of Veterans Affairs,10.0,Social protection
+550,579,37,Department of Veterans Affairs,10.0,Social protection
+551,580,37,Department of Veterans Affairs,10.0,Social protection
+552,581,37,Department of Veterans Affairs,10.0,Social protection
+553,582,37,Department of Veterans Affairs,10.0,Social protection
+554,583,37,Department of Veterans Affairs,10.0,Social protection
+555,584,37,Department of Veterans Affairs,10.0,Social protection
+556,585,37,Department of Veterans Affairs,10.0,Social protection
+557,586,37,Department of Veterans Affairs,10.0,Social protection
+558,7,3,Library of Congress,1.0,General public services
+559,587,37,Department of Veterans Affairs,10.0,Social protection
+560,588,37,Department of Veterans Affairs,10.0,Social protection
+561,589,37,Department of Veterans Affairs,10.0,Social protection
+562,590,37,Department of Veterans Affairs,10.0,Social protection
+563,591,37,Department of Veterans Affairs,10.0,Social protection
+564,592,37,Department of Veterans Affairs,10.0,Social protection
+565,593,37,Department of Veterans Affairs,10.0,Social protection
+566,594,37,Department of Veterans Affairs,10.0,Social protection
+567,595,37,Department of Veterans Affairs,10.0,Social protection
+568,596,37,Department of Veterans Affairs,10.0,Social protection
+569,597,37,Department of Veterans Affairs,10.0,Social protection
+570,598,37,Department of Veterans Affairs,10.0,Social protection
+571,599,37,Department of Veterans Affairs,10.0,Social protection
+572,600,37,Department of Veterans Affairs,10.0,Social protection
+573,601,37,Department of Veterans Affairs,10.0,Social protection
+574,602,37,Department of Veterans Affairs,10.0,Social protection
+575,603,37,Department of Veterans Affairs,10.0,Social protection
+576,604,37,Department of Veterans Affairs,10.0,Social protection
+577,605,37,Department of Veterans Affairs,10.0,Social protection
+578,606,37,Department of Veterans Affairs,10.0,Social protection
+579,607,37,Department of Veterans Affairs,10.0,Social protection
+580,608,37,Department of Veterans Affairs,10.0,Social protection
+581,609,37,Department of Veterans Affairs,10.0,Social protection
+582,610,38,Merit Systems Protection Board,8.0,"Recreation, culture and religion"
+583,611,39,Equal Employment Opportunity Commission,10.0,Social protection
+584,612,39,Equal Employment Opportunity Commission,10.0,Social protection
+585,613,39,Equal Employment Opportunity Commission,10.0,Social protection
+586,614,40,General Services Administration,1.0,General public services
+587,615,40,General Services Administration,1.0,General public services
+588,616,40,General Services Administration,1.0,General public services
+589,617,40,General Services Administration,1.0,General public services
+590,618,40,General Services Administration,1.0,General public services
+591,619,40,General Services Administration,1.0,General public services
+592,620,40,General Services Administration,1.0,General public services
+593,621,40,General Services Administration,1.0,General public services
+594,622,40,General Services Administration,1.0,General public services
+595,623,40,General Services Administration,1.0,General public services
+596,624,40,General Services Administration,1.0,General public services
+597,625,40,General Services Administration,1.0,General public services
+598,626,40,General Services Administration,1.0,General public services
+599,627,40,General Services Administration,1.0,General public services
+600,628,40,General Services Administration,1.0,General public services
+601,629,40,General Services Administration,1.0,General public services
+602,630,40,General Services Administration,1.0,General public services
+603,631,40,General Services Administration,1.0,General public services
+604,632,40,General Services Administration,1.0,General public services
+605,633,40,General Services Administration,1.0,General public services
+606,634,40,General Services Administration,1.0,General public services
+607,635,40,General Services Administration,1.0,General public services
+608,636,40,General Services Administration,1.0,General public services
+609,637,40,General Services Administration,1.0,General public services
+610,638,40,General Services Administration,1.0,General public services
+611,639,40,General Services Administration,1.0,General public services
+612,640,40,General Services Administration,1.0,General public services
+613,641,40,General Services Administration,1.0,General public services
+614,642,40,General Services Administration,1.0,General public services
+615,643,40,General Services Administration,1.0,General public services
+616,644,40,General Services Administration,1.0,General public services
+617,645,40,General Services Administration,1.0,General public services
+618,646,40,General Services Administration,1.0,General public services
+619,647,40,General Services Administration,1.0,General public services
+620,648,41,Indian Law and Order Commission,1.0,General public services
+621,649,42,State Justice Institute,3.0,Public order and safety
+622,650,43,Office of Navajo and Hopi Indian Relocation,10.0,Social protection
+623,651,44,U.S. Interagency Council on Homelessness,10.0,Social protection
+624,652,44,U.S. Interagency Council on Homelessness,10.0,Social protection
+625,653,44,U.S. Interagency Council on Homelessness,10.0,Social protection
+626,654,45,Nuclear Waste Technical Review Board,5.0,Environmental protection
+627,655,46,National Science Foundation,1.0,General public services
+628,656,46,National Science Foundation,1.0,General public services
+629,657,46,National Science Foundation,1.0,General public services
+630,658,46,National Science Foundation,1.0,General public services
+631,659,46,National Science Foundation,1.0,General public services
+632,660,46,National Science Foundation,1.0,General public services
+633,661,46,National Science Foundation,1.0,General public services
+634,662,46,National Science Foundation,1.0,General public services
+635,663,46,National Science Foundation,1.0,General public services
+636,664,46,National Science Foundation,1.0,General public services
+637,665,46,National Science Foundation,1.0,General public services
+638,666,46,National Science Foundation,1.0,General public services
+639,667,46,National Science Foundation,1.0,General public services
+640,668,46,National Science Foundation,1.0,General public services
+641,669,46,National Science Foundation,1.0,General public services
+642,670,46,National Science Foundation,1.0,General public services
+643,671,46,National Science Foundation,1.0,General public services
+644,672,46,National Science Foundation,1.0,General public services
+645,673,46,National Science Foundation,1.0,General public services
+646,674,46,National Science Foundation,1.0,General public services
+647,675,46,National Science Foundation,1.0,General public services
+648,676,46,National Science Foundation,1.0,General public services
+649,677,46,National Science Foundation,1.0,General public services
+650,678,46,National Science Foundation,1.0,General public services
+651,679,46,National Science Foundation,1.0,General public services
+652,680,47,Securities and Exchange Commission,4.0,Economic affairs
+653,681,48,Securities Investor Protection Corporation,4.0,Economic affairs
+654,682,49,Federal Deposit Insurance Corporation,4.0,Economic affairs
+655,683,50,Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects,4.0,Economic affairs
+656,684,50,Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects,4.0,Economic affairs
+657,685,51,Federal Labor Relations Authority,4.0,Economic affairs
+658,686,52,Central Intelligence Agency,2.0,Defense
+659,687,53,National Endowment for the Arts,8.0,"Recreation, culture and religion"
+660,688,53,National Endowment for the Arts,8.0,"Recreation, culture and religion"
+661,689,53,National Endowment for the Arts,8.0,"Recreation, culture and religion"
+662,690,53,National Endowment for the Arts,8.0,"Recreation, culture and religion"
+663,691,53,National Endowment for the Arts,8.0,"Recreation, culture and religion"
+664,692,54,National Endowment for the Humanities,8.0,"Recreation, culture and religion"
+665,693,55,Railroad Retirement Board,10.0,Social protection
+666,694,56,Consumer Product Safety Commission,4.0,Economic affairs
+667,695,57,Office of Special Counsel,1.0,General public services
+668,696,57,Office of Special Counsel,1.0,General public services
+669,697,58,National Labor Relations Board,4.0,Economic affairs
+670,8,3,Library of Congress,1.0,General public services
+671,698,59,Tennessee Valley Authority,4.0,Economic affairs
+672,699,60,Federal Maritime Commission,4.0,Economic affairs
+673,700,61,Environmental Protection Agency,5.0,Environmental protection
+674,701,61,Environmental Protection Agency,5.0,Environmental protection
+675,702,61,Environmental Protection Agency,5.0,Environmental protection
+676,703,61,Environmental Protection Agency,5.0,Environmental protection
+677,704,61,Environmental Protection Agency,5.0,Environmental protection
+678,705,61,Environmental Protection Agency,5.0,Environmental protection
+679,706,61,Environmental Protection Agency,5.0,Environmental protection
+680,707,61,Environmental Protection Agency,5.0,Environmental protection
+681,708,61,Environmental Protection Agency,5.0,Environmental protection
+682,709,61,Environmental Protection Agency,5.0,Environmental protection
+683,710,61,Environmental Protection Agency,5.0,Environmental protection
+684,711,61,Environmental Protection Agency,5.0,Environmental protection
+685,712,61,Environmental Protection Agency,5.0,Environmental protection
+686,713,61,Environmental Protection Agency,5.0,Environmental protection
+687,714,61,Environmental Protection Agency,5.0,Environmental protection
+688,715,61,Environmental Protection Agency,5.0,Environmental protection
+689,716,61,Environmental Protection Agency,5.0,Environmental protection
+690,717,61,Environmental Protection Agency,5.0,Environmental protection
+691,718,61,Environmental Protection Agency,5.0,Environmental protection
+692,719,61,Environmental Protection Agency,5.0,Environmental protection
+693,720,61,Environmental Protection Agency,5.0,Environmental protection
+694,721,61,Environmental Protection Agency,5.0,Environmental protection
+695,722,61,Environmental Protection Agency,5.0,Environmental protection
+696,723,61,Environmental Protection Agency,5.0,Environmental protection
+697,724,61,Environmental Protection Agency,5.0,Environmental protection
+698,725,61,Environmental Protection Agency,5.0,Environmental protection
+699,726,61,Environmental Protection Agency,5.0,Environmental protection
+700,727,61,Environmental Protection Agency,5.0,Environmental protection
+701,728,61,Environmental Protection Agency,5.0,Environmental protection
+702,729,61,Environmental Protection Agency,5.0,Environmental protection
+703,730,61,Environmental Protection Agency,5.0,Environmental protection
+704,731,62,Department of Transportation,4.0,Economic affairs
+705,732,62,Department of Transportation,4.0,Economic affairs
+706,733,62,Department of Transportation,4.0,Economic affairs
+707,734,62,Department of Transportation,4.0,Economic affairs
+708,735,62,Department of Transportation,4.0,Economic affairs
+709,736,62,Department of Transportation,4.0,Economic affairs
+710,737,62,Department of Transportation,4.0,Economic affairs
+711,738,62,Department of Transportation,4.0,Economic affairs
+712,739,62,Department of Transportation,4.0,Economic affairs
+713,740,62,Department of Transportation,4.0,Economic affairs
+714,741,62,Department of Transportation,4.0,Economic affairs
+715,742,62,Department of Transportation,4.0,Economic affairs
+716,743,62,Department of Transportation,4.0,Economic affairs
+717,744,62,Department of Transportation,4.0,Economic affairs
+718,745,62,Department of Transportation,4.0,Economic affairs
+719,746,62,Department of Transportation,4.0,Economic affairs
+720,747,62,Department of Transportation,4.0,Economic affairs
+721,748,62,Department of Transportation,4.0,Economic affairs
+722,749,62,Department of Transportation,4.0,Economic affairs
+723,750,62,Department of Transportation,4.0,Economic affairs
+724,751,62,Department of Transportation,4.0,Economic affairs
+725,752,62,Department of Transportation,4.0,Economic affairs
+726,753,62,Department of Transportation,4.0,Economic affairs
+727,754,62,Department of Transportation,4.0,Economic affairs
+728,755,62,Department of Transportation,4.0,Economic affairs
+729,756,62,Department of Transportation,4.0,Economic affairs
+730,757,62,Department of Transportation,4.0,Economic affairs
+731,758,62,Department of Transportation,4.0,Economic affairs
+732,759,62,Department of Transportation,4.0,Economic affairs
+733,760,62,Department of Transportation,4.0,Economic affairs
+734,761,62,Department of Transportation,4.0,Economic affairs
+735,762,62,Department of Transportation,4.0,Economic affairs
+736,763,62,Department of Transportation,4.0,Economic affairs
+737,764,62,Department of Transportation,4.0,Economic affairs
+738,765,62,Department of Transportation,4.0,Economic affairs
+739,766,63,Department of Homeland Security,3.0,Public order and safety
+740,767,63,Department of Homeland Security,3.0,Public order and safety
+741,768,63,Department of Homeland Security,3.0,Public order and safety
+742,769,63,Department of Homeland Security,3.0,Public order and safety
+743,770,63,Department of Homeland Security,3.0,Public order and safety
+744,771,63,Department of Homeland Security,3.0,Public order and safety
+745,772,63,Department of Homeland Security,3.0,Public order and safety
+746,773,63,Department of Homeland Security,3.0,Public order and safety
+747,774,63,Department of Homeland Security,3.0,Public order and safety
+748,775,63,Department of Homeland Security,3.0,Public order and safety
+749,776,63,Department of Homeland Security,3.0,Public order and safety
+750,777,63,Department of Homeland Security,3.0,Public order and safety
+751,778,63,Department of Homeland Security,3.0,Public order and safety
+752,779,63,Department of Homeland Security,3.0,Public order and safety
+753,780,63,Department of Homeland Security,3.0,Public order and safety
+754,781,63,Department of Homeland Security,3.0,Public order and safety
+755,782,63,Department of Homeland Security,3.0,Public order and safety
+756,783,63,Department of Homeland Security,3.0,Public order and safety
+757,784,63,Department of Homeland Security,3.0,Public order and safety
+758,785,63,Department of Homeland Security,3.0,Public order and safety
+759,786,63,Department of Homeland Security,3.0,Public order and safety
+760,787,63,Department of Homeland Security,3.0,Public order and safety
+761,788,63,Department of Homeland Security,3.0,Public order and safety
+762,789,63,Department of Homeland Security,3.0,Public order and safety
+763,790,63,Department of Homeland Security,3.0,Public order and safety
+764,791,63,Department of Homeland Security,3.0,Public order and safety
+765,792,63,Department of Homeland Security,3.0,Public order and safety
+766,793,63,Department of Homeland Security,3.0,Public order and safety
+767,794,63,Department of Homeland Security,3.0,Public order and safety
+768,795,63,Department of Homeland Security,3.0,Public order and safety
+769,796,63,Department of Homeland Security,3.0,Public order and safety
+770,797,63,Department of Homeland Security,3.0,Public order and safety
+771,798,63,Department of Homeland Security,3.0,Public order and safety
+772,799,63,Department of Homeland Security,3.0,Public order and safety
+773,800,64,Overseas Private Investment Corporation,4.0,Economic affairs
+774,801,65,Agency for International Development,1.0,General public services
+775,802,65,Agency for International Development,1.0,General public services
+776,803,66,Small Business Administration,4.0,Economic affairs
+777,804,66,Small Business Administration,4.0,Economic affairs
+778,805,67,American Battle Monuments Commission,8.0,"Recreation, culture and religion"
+779,806,68,Department of Health and Human Services,7.0,Health
+780,807,68,Department of Health and Human Services,7.0,Health
+781,808,68,Department of Health and Human Services,7.0,Health
+782,9,3,Library of Congress,1.0,General public services
+783,809,68,Department of Health and Human Services,7.0,Health
+784,810,68,Department of Health and Human Services,7.0,Health
+785,811,68,Department of Health and Human Services,7.0,Health
+786,812,68,Department of Health and Human Services,7.0,Health
+787,813,68,Department of Health and Human Services,7.0,Health
+788,814,68,Department of Health and Human Services,7.0,Health
+789,815,68,Department of Health and Human Services,7.0,Health
+790,816,68,Department of Health and Human Services,7.0,Health
+791,817,68,Department of Health and Human Services,7.0,Health
+792,818,68,Department of Health and Human Services,7.0,Health
+793,819,68,Department of Health and Human Services,7.0,Health
+794,820,68,Department of Health and Human Services,7.0,Health
+795,821,68,Department of Health and Human Services,7.0,Health
+796,822,68,Department of Health and Human Services,7.0,Health
+797,823,68,Department of Health and Human Services,7.0,Health
+798,824,68,Department of Health and Human Services,7.0,Health
+799,825,68,Department of Health and Human Services,7.0,Health
+800,826,68,Department of Health and Human Services,7.0,Health
+801,827,68,Department of Health and Human Services,7.0,Health
+802,828,68,Department of Health and Human Services,7.0,Health
+803,829,68,Department of Health and Human Services,7.0,Health
+804,830,68,Department of Health and Human Services,7.0,Health
+805,831,68,Department of Health and Human Services,7.0,Health
+806,832,68,Department of Health and Human Services,7.0,Health
+807,833,68,Department of Health and Human Services,7.0,Health
+808,834,68,Department of Health and Human Services,7.0,Health
+809,835,68,Department of Health and Human Services,7.0,Health
+810,836,68,Department of Health and Human Services,7.0,Health
+811,837,68,Department of Health and Human Services,7.0,Health
+812,838,68,Department of Health and Human Services,7.0,Health
+813,839,68,Department of Health and Human Services,7.0,Health
+814,840,68,Department of Health and Human Services,7.0,Health
+815,841,68,Department of Health and Human Services,7.0,Health
+816,842,68,Department of Health and Human Services,7.0,Health
+817,843,68,Department of Health and Human Services,7.0,Health
+818,844,68,Department of Health and Human Services,7.0,Health
+819,845,68,Department of Health and Human Services,7.0,Health
+820,846,68,Department of Health and Human Services,7.0,Health
+821,847,68,Department of Health and Human Services,7.0,Health
+822,848,68,Department of Health and Human Services,7.0,Health
+823,849,68,Department of Health and Human Services,7.0,Health
+824,850,68,Department of Health and Human Services,7.0,Health
+825,851,69,Christopher Columbus Fellowship Foundation,1.0,General public services
+826,852,69,Christopher Columbus Fellowship Foundation,1.0,General public services
+827,853,70,Farm Credit Administration,4.0,Economic affairs
+828,854,70,Farm Credit Administration,4.0,Economic affairs
+829,855,70,Farm Credit Administration,4.0,Economic affairs
+830,856,70,Farm Credit Administration,4.0,Economic affairs
+831,857,70,Farm Credit Administration,4.0,Economic affairs
+832,858,70,Farm Credit Administration,4.0,Economic affairs
+833,859,70,Farm Credit Administration,4.0,Economic affairs
+834,860,71,Farm Credit System Insurance Corporation,4.0,Economic affairs
+835,861,70,Farm Credit Administration,4.0,Economic affairs
+836,862,72,National Aeronautics and Space Administration,1.0,General public services
+837,863,72,National Aeronautics and Space Administration,1.0,General public services
+838,864,72,National Aeronautics and Space Administration,1.0,General public services
+839,865,72,National Aeronautics and Space Administration,1.0,General public services
+840,866,72,National Aeronautics and Space Administration,1.0,General public services
+841,867,72,National Aeronautics and Space Administration,1.0,General public services
+842,868,72,National Aeronautics and Space Administration,1.0,General public services
+843,869,72,National Aeronautics and Space Administration,1.0,General public services
+844,870,72,National Aeronautics and Space Administration,1.0,General public services
+845,871,72,National Aeronautics and Space Administration,1.0,General public services
+846,872,72,National Aeronautics and Space Administration,1.0,General public services
+847,873,72,National Aeronautics and Space Administration,1.0,General public services
+848,874,72,National Aeronautics and Space Administration,1.0,General public services
+849,875,72,National Aeronautics and Space Administration,1.0,General public services
+850,876,72,National Aeronautics and Space Administration,1.0,General public services
+851,877,73,Federal Home Loan Bank System,6.0,Housing and community services
+852,878,74,Export-Import Bank of the United States,4.0,Economic affairs
+853,879,75,Armed Forces Retirement Home,2.0,Defense
+854,880,75,Armed Forces Retirement Home,2.0,Defense
+855,881,75,Armed Forces Retirement Home,2.0,Defense
+856,882,76,Department of Housing and Urban Development,6.0,Housing and community services
+857,883,76,Department of Housing and Urban Development,6.0,Housing and community services
+858,884,76,Department of Housing and Urban Development,6.0,Housing and community services
+859,885,76,Department of Housing and Urban Development,6.0,Housing and community services
+860,886,76,Department of Housing and Urban Development,6.0,Housing and community services
+861,887,76,Department of Housing and Urban Development,6.0,Housing and community services
+862,888,76,Department of Housing and Urban Development,6.0,Housing and community services
+863,889,76,Department of Housing and Urban Development,6.0,Housing and community services
+864,890,76,Department of Housing and Urban Development,6.0,Housing and community services
+865,891,76,Department of Housing and Urban Development,6.0,Housing and community services
+866,892,76,Department of Housing and Urban Development,6.0,Housing and community services
+867,893,76,Department of Housing and Urban Development,6.0,Housing and community services
+868,894,76,Department of Housing and Urban Development,6.0,Housing and community services
+869,895,76,Department of Housing and Urban Development,6.0,Housing and community services
+870,896,76,Department of Housing and Urban Development,6.0,Housing and community services
+871,897,76,Department of Housing and Urban Development,6.0,Housing and community services
+872,898,76,Department of Housing and Urban Development,6.0,Housing and community services
+873,899,76,Department of Housing and Urban Development,6.0,Housing and community services
+874,900,76,Department of Housing and Urban Development,6.0,Housing and community services
+875,901,76,Department of Housing and Urban Development,6.0,Housing and community services
+876,902,76,Department of Housing and Urban Development,6.0,Housing and community services
+877,903,76,Department of Housing and Urban Development,6.0,Housing and community services
+878,904,76,Department of Housing and Urban Development,6.0,Housing and community services
+879,905,76,Department of Housing and Urban Development,6.0,Housing and community services
+880,906,76,Department of Housing and Urban Development,6.0,Housing and community services
+881,907,76,Department of Housing and Urban Development,6.0,Housing and community services
+882,908,76,Department of Housing and Urban Development,6.0,Housing and community services
+883,909,76,Department of Housing and Urban Development,6.0,Housing and community services
+884,910,76,Department of Housing and Urban Development,6.0,Housing and community services
+885,911,76,Department of Housing and Urban Development,6.0,Housing and community services
+886,912,76,Department of Housing and Urban Development,6.0,Housing and community services
+887,913,76,Department of Housing and Urban Development,6.0,Housing and community services
+888,914,76,Department of Housing and Urban Development,6.0,Housing and community services
+889,915,76,Department of Housing and Urban Development,6.0,Housing and community services
+890,916,76,Department of Housing and Urban Development,6.0,Housing and community services
+891,917,76,Department of Housing and Urban Development,6.0,Housing and community services
+892,918,76,Department of Housing and Urban Development,6.0,Housing and community services
+893,919,76,Department of Housing and Urban Development,6.0,Housing and community services
+894,10,4,Government Publishing Office,1.0,General public services
+895,920,76,Department of Housing and Urban Development,6.0,Housing and community services
+896,921,76,Department of Housing and Urban Development,6.0,Housing and community services
+897,922,76,Department of Housing and Urban Development,6.0,Housing and community services
+898,923,76,Department of Housing and Urban Development,6.0,Housing and community services
+899,924,76,Department of Housing and Urban Development,6.0,Housing and community services
+900,925,77,National Archives and Records Administration,8.0,"Recreation, culture and religion"
+901,926,77,National Archives and Records Administration,8.0,"Recreation, culture and religion"
+902,927,77,National Archives and Records Administration,8.0,"Recreation, culture and religion"
+903,928,77,National Archives and Records Administration,8.0,"Recreation, culture and religion"
+904,929,77,National Archives and Records Administration,8.0,"Recreation, culture and religion"
+905,930,78,Department of Energy,4.0,Economic affairs
+906,931,78,Department of Energy,4.0,Economic affairs
+907,932,78,Department of Energy,4.0,Economic affairs
+908,933,78,Department of Energy,4.0,Economic affairs
+909,934,78,Department of Energy,4.0,Economic affairs
+910,935,78,Department of Energy,4.0,Economic affairs
+911,936,78,Department of Energy,4.0,Economic affairs
+912,937,78,Department of Energy,4.0,Economic affairs
+913,938,78,Department of Energy,4.0,Economic affairs
+914,939,78,Department of Energy,4.0,Economic affairs
+915,940,78,Department of Energy,4.0,Economic affairs
+916,941,78,Department of Energy,4.0,Economic affairs
+917,942,78,Department of Energy,4.0,Economic affairs
+918,943,78,Department of Energy,4.0,Economic affairs
+919,944,78,Department of Energy,4.0,Economic affairs
+920,945,78,Department of Energy,4.0,Economic affairs
+921,946,78,Department of Energy,4.0,Economic affairs
+922,947,78,Department of Energy,4.0,Economic affairs
+923,948,78,Department of Energy,4.0,Economic affairs
+924,949,78,Department of Energy,4.0,Economic affairs
+925,950,78,Department of Energy,4.0,Economic affairs
+926,951,78,Department of Energy,4.0,Economic affairs
+927,952,78,Department of Energy,4.0,Economic affairs
+928,953,78,Department of Energy,4.0,Economic affairs
+929,954,78,Department of Energy,4.0,Economic affairs
+930,955,78,Department of Energy,4.0,Economic affairs
+931,956,78,Department of Energy,4.0,Economic affairs
+932,957,78,Department of Energy,4.0,Economic affairs
+933,958,78,Department of Energy,4.0,Economic affairs
+934,959,78,Department of Energy,4.0,Economic affairs
+935,960,78,Department of Energy,4.0,Economic affairs
+936,961,78,Department of Energy,4.0,Economic affairs
+937,962,78,Department of Energy,4.0,Economic affairs
+938,963,78,Department of Energy,4.0,Economic affairs
+939,964,78,Department of Energy,4.0,Economic affairs
+940,965,78,Department of Energy,4.0,Economic affairs
+941,966,78,Department of Energy,4.0,Economic affairs
+942,967,78,Department of Energy,4.0,Economic affairs
+943,968,78,Department of Energy,4.0,Economic affairs
+944,969,78,Department of Energy,4.0,Economic affairs
+945,970,78,Department of Energy,4.0,Economic affairs
+946,971,78,Department of Energy,4.0,Economic affairs
+947,972,78,Department of Energy,4.0,Economic affairs
+948,973,78,Department of Energy,4.0,Economic affairs
+949,974,78,Department of Energy,4.0,Economic affairs
+950,975,78,Department of Energy,4.0,Economic affairs
+951,976,78,Department of Energy,4.0,Economic affairs
+952,977,78,Department of Energy,4.0,Economic affairs
+953,978,78,Department of Energy,4.0,Economic affairs
+954,979,78,Department of Energy,4.0,Economic affairs
+955,980,78,Department of Energy,4.0,Economic affairs
+956,981,78,Department of Energy,4.0,Economic affairs
+957,982,78,Department of Energy,4.0,Economic affairs
+958,983,78,Department of Energy,4.0,Economic affairs
+959,984,78,Department of Energy,4.0,Economic affairs
+960,985,78,Department of Energy,4.0,Economic affairs
+961,986,78,Department of Energy,4.0,Economic affairs
+962,987,78,Department of Energy,4.0,Economic affairs
+963,988,78,Department of Energy,4.0,Economic affairs
+964,989,78,Department of Energy,4.0,Economic affairs
+965,990,78,Department of Energy,4.0,Economic affairs
+966,991,78,Department of Energy,4.0,Economic affairs
+967,992,78,Department of Energy,4.0,Economic affairs
+968,993,78,Department of Energy,4.0,Economic affairs
+969,994,78,Department of Energy,4.0,Economic affairs
+970,995,78,Department of Energy,4.0,Economic affairs
+971,996,78,Department of Energy,4.0,Economic affairs
+972,997,78,Department of Energy,4.0,Economic affairs
+973,998,78,Department of Energy,4.0,Economic affairs
+974,999,78,Department of Energy,4.0,Economic affairs
+975,1000,78,Department of Energy,4.0,Economic affairs
+976,1001,78,Department of Energy,4.0,Economic affairs
+977,1002,78,Department of Energy,4.0,Economic affairs
+978,1003,78,Department of Energy,4.0,Economic affairs
+979,1004,78,Department of Energy,4.0,Economic affairs
+980,1005,78,Department of Energy,4.0,Economic affairs
+981,1006,78,Department of Energy,4.0,Economic affairs
+982,1007,78,Department of Energy,4.0,Economic affairs
+983,1008,78,Department of Energy,4.0,Economic affairs
+984,1009,78,Department of Energy,4.0,Economic affairs
+985,1010,78,Department of Energy,4.0,Economic affairs
+986,1011,78,Department of Energy,4.0,Economic affairs
+987,1012,78,Department of Energy,4.0,Economic affairs
+988,1013,78,Department of Energy,4.0,Economic affairs
+989,1014,78,Department of Energy,4.0,Economic affairs
+990,1015,78,Department of Energy,4.0,Economic affairs
+991,1016,78,Department of Energy,4.0,Economic affairs
+992,1017,78,Department of Energy,4.0,Economic affairs
+993,1018,78,Department of Energy,4.0,Economic affairs
+994,1019,78,Department of Energy,4.0,Economic affairs
+995,1020,78,Department of Energy,4.0,Economic affairs
+996,1021,78,Department of Energy,4.0,Economic affairs
+997,1022,78,Department of Energy,4.0,Economic affairs
+998,1023,78,Department of Energy,4.0,Economic affairs
+999,1024,78,Department of Energy,4.0,Economic affairs
+1000,1025,78,Department of Energy,4.0,Economic affairs
+1001,1026,78,Department of Energy,4.0,Economic affairs
+1002,1027,78,Department of Energy,4.0,Economic affairs
+1003,1028,78,Department of Energy,4.0,Economic affairs
+1004,1029,78,Department of Energy,4.0,Economic affairs
+1005,1030,78,Department of Energy,4.0,Economic affairs
+1006,11,5,Government Accountability Office,1.0,General public services
+1007,1031,78,Department of Energy,4.0,Economic affairs
+1008,1032,78,Department of Energy,4.0,Economic affairs
+1009,1033,78,Department of Energy,4.0,Economic affairs
+1010,1034,78,Department of Energy,4.0,Economic affairs
+1011,1035,78,Department of Energy,4.0,Economic affairs
+1012,1036,78,Department of Energy,4.0,Economic affairs
+1013,1037,78,Department of Energy,4.0,Economic affairs
+1014,1038,78,Department of Energy,4.0,Economic affairs
+1015,1039,78,Department of Energy,4.0,Economic affairs
+1016,1040,78,Department of Energy,4.0,Economic affairs
+1017,1041,78,Department of Energy,4.0,Economic affairs
+1018,1042,78,Department of Energy,4.0,Economic affairs
+1019,1043,78,Department of Energy,4.0,Economic affairs
+1020,1044,78,Department of Energy,4.0,Economic affairs
+1021,1045,78,Department of Energy,4.0,Economic affairs
+1022,1046,78,Department of Energy,4.0,Economic affairs
+1023,1047,78,Department of Energy,4.0,Economic affairs
+1024,1048,78,Department of Energy,4.0,Economic affairs
+1025,1049,78,Department of Energy,4.0,Economic affairs
+1026,1050,78,Department of Energy,4.0,Economic affairs
+1027,1051,78,Department of Energy,4.0,Economic affairs
+1028,1052,78,Department of Energy,4.0,Economic affairs
+1029,1053,78,Department of Energy,4.0,Economic affairs
+1030,1054,78,Department of Energy,4.0,Economic affairs
+1031,1055,78,Department of Energy,4.0,Economic affairs
+1032,1056,78,Department of Energy,4.0,Economic affairs
+1033,1057,78,Department of Energy,4.0,Economic affairs
+1034,1058,78,Department of Energy,4.0,Economic affairs
+1035,1059,78,Department of Energy,4.0,Economic affairs
+1036,1060,78,Department of Energy,4.0,Economic affairs
+1037,1061,78,Department of Energy,4.0,Economic affairs
+1038,1062,78,Department of Energy,4.0,Economic affairs
+1039,1063,78,Department of Energy,4.0,Economic affairs
+1040,1064,78,Department of Energy,4.0,Economic affairs
+1041,1065,78,Department of Energy,4.0,Economic affairs
+1042,1066,78,Department of Energy,4.0,Economic affairs
+1043,1067,79,Selective Service System,2.0,Defense
+1044,1068,80,Department of Education,9.0,Education
+1045,1069,80,Department of Education,9.0,Education
+1046,1070,80,Department of Education,9.0,Education
+1047,1071,80,Department of Education,9.0,Education
+1048,1072,80,Department of Education,9.0,Education
+1049,1073,80,Department of Education,9.0,Education
+1050,1074,80,Department of Education,9.0,Education
+1051,1075,80,Department of Education,9.0,Education
+1052,1076,80,Department of Education,9.0,Education
+1053,1077,80,Department of Education,9.0,Education
+1054,1078,80,Department of Education,9.0,Education
+1055,1079,80,Department of Education,9.0,Education
+1056,1080,80,Department of Education,9.0,Education
+1057,1081,80,Department of Education,9.0,Education
+1058,1082,80,Department of Education,9.0,Education
+1059,1083,80,Department of Education,9.0,Education
+1060,1084,80,Department of Education,9.0,Education
+1061,1085,80,Department of Education,9.0,Education
+1062,1086,80,Department of Education,9.0,Education
+1063,1087,80,Department of Education,9.0,Education
+1064,1088,80,Department of Education,9.0,Education
+1065,1089,80,Department of Education,9.0,Education
+1066,1090,80,Department of Education,9.0,Education
+1067,1091,80,Department of Education,9.0,Education
+1068,1092,80,Department of Education,9.0,Education
+1069,1093,80,Department of Education,9.0,Education
+1070,1094,80,Department of Education,9.0,Education
+1071,1095,80,Department of Education,9.0,Education
+1072,1096,80,Department of Education,9.0,Education
+1073,1097,80,Department of Education,9.0,Education
+1074,1098,80,Department of Education,9.0,Education
+1075,1099,80,Department of Education,9.0,Education
+1076,1100,80,Department of Education,9.0,Education
+1077,1101,80,Department of Education,9.0,Education
+1078,1102,80,Department of Education,9.0,Education
+1079,1103,80,Department of Education,9.0,Education
+1080,1104,80,Department of Education,9.0,Education
+1081,1105,80,Department of Education,9.0,Education
+1082,1106,80,Department of Education,9.0,Education
+1083,1107,80,Department of Education,9.0,Education
+1084,1108,80,Department of Education,9.0,Education
+1085,1109,80,Department of Education,9.0,Education
+1086,1110,80,Department of Education,9.0,Education
+1087,1111,80,Department of Education,9.0,Education
+1088,1112,80,Department of Education,9.0,Education
+1089,1113,80,Department of Education,9.0,Education
+1090,1114,80,Department of Education,9.0,Education
+1091,1115,80,Department of Education,9.0,Education
+1092,1116,80,Department of Education,9.0,Education
+1093,1117,80,Department of Education,9.0,Education
+1094,1118,80,Department of Education,9.0,Education
+1095,1119,80,Department of Education,9.0,Education
+1096,1120,80,Department of Education,9.0,Education
+1097,1121,80,Department of Education,9.0,Education
+1098,1122,80,Department of Education,9.0,Education
+1099,1123,80,Department of Education,9.0,Education
+1100,1124,80,Department of Education,9.0,Education
+1101,1125,81,Federal Mediation and Conciliation Service,4.0,Economic affairs
+1102,1126,82,National Capital Planning Commission,1.0,General public services
+1103,1127,83,Federal Mine Safety and Health Review Commission,4.0,Economic affairs
+1104,1128,84,Federal Election Commission,1.0,General public services
+1105,1129,85,Commodity Futures Trading Commission,4.0,Economic affairs
+1106,1130,86,National Transportation Safety Board,4.0,Economic affairs
+1107,1131,87,Harry S Truman Scholarship Foundation,9.0,Education
+1108,1132,88,The Council of the Inspectors General on Integrity and Efficiency,1.0,General public services
+1109,1133,89,Japan-United States Friendship Commission,1.0,General public services
+1110,1134,90,Marine Mammal Commission,5.0,Environmental protection
+1111,1135,91,Occupational Safety and Health Review Commission,7.0,Health
+1112,1136,92,Administrative Conference of the U.S.,1.0,General public services
+1113,1137,93,Defense Nuclear Facilities Safety Board,2.0,Defense
+1114,1138,94,Commission on Civil Rights,3.0,Public order and safety
+1115,1139,95,Committee for Purchase from People Who Are Blind or Severely Disabled,10.0,Social protection
+1116,1140,96,Intelligence Community Staff,2.0,Defense
+1117,1141,97,Election Assistance Commission,1.0,General public services
+1118,12,5,Government Accountability Office,1.0,General public services
+1119,1142,98,National Mediation Board,4.0,Economic affairs
+1120,1143,99,Privacy and Civil Liberties Oversight Board,3.0,Public order and safety
+1121,1144,100,Advisory Council on Historic Preservation,8.0,"Recreation, culture and religion"
+1122,1145,101,United States Holocaust Memorial Museum,8.0,"Recreation, culture and religion"
+1123,1146,102,Access Board,10.0,Social protection
+1124,1147,103,Gulf Coast Ecosystem Restoration Council,5.0,Environmental protection
+1125,1148,104,Institute of American Indian and Alaska Native Culture and Arts Development,8.0,"Recreation, culture and religion"
+1126,1149,105,Commission of Fine Arts,8.0,"Recreation, culture and religion"
+1127,1150,106,Federal Housing Finance Board,6.0,Housing and community services
+1128,1151,106,Federal Housing Finance Board,6.0,Housing and community services
+1129,1152,107,James Madison Memorial Fellowship Foundation,9.0,Education
+1130,1153,108,Federal Housing Finance Agency,6.0,Housing and community services
+1131,1154,109,Millennium Challenge Corporation,1.0,General public services
+1132,1155,110,Morris K. Udall and Stewart L. Udall Foundation,1.0,General public services
+1133,1156,111,Delta Regional Authority,6.0,Housing and community services
+1134,1157,112,Office of Government Ethics,1.0,General public services
+1135,1158,113,Consumer Financial Protection Bureau,4.0,Economic affairs
+1136,1159,114,Barry Goldwater Scholarship and Excellence In Education Foundation,9.0,Education
+1137,1160,115,Recovery Accountability and Transparency Board,1.0,General public services
+1138,1161,116,Federal Financial Institutions Examination Council,4.0,Economic affairs
+1139,1162,117,United States Chemical Safety Board,4.0,Economic affairs
+1140,1163,118,Broadcasting Board of Governors,8.0,"Recreation, culture and religion"
+1141,1164,119,Presidio Trust,6.0,Housing and community services
+1142,1165,120,Denali Commission,4.0,Economic affairs
+1143,1166,121,Corporation for National and Community Service,6.0,Housing and community services
+1144,1167,122,United States Institute of Peace,8.0,"Recreation, culture and religion"
+1145,1168,123,United Mine Workers of America Health and Retirement Funds,10.0,Social protection
+1146,1169,124,United States Court of Appeals for Veterans Claims,10.0,Social protection
+1147,1170,125,Court Services and Offender Supervision Agency,3.0,Public order and safety
+1148,1171,125,Court Services and Offender Supervision Agency,3.0,Public order and safety
+1149,1172,125,Court Services and Offender Supervision Agency,3.0,Public order and safety
+1150,1173,126,Department of Defense,2.0,Defense
+1151,1174,126,Department of Defense,2.0,Defense
+1152,1175,126,Department of Defense,2.0,Defense
+1153,1176,126,Department of Defense,2.0,Defense
+1154,1177,126,Department of Defense,2.0,Defense
+1155,1178,126,Department of Defense,2.0,Defense
+1156,1179,126,Department of Defense,2.0,Defense
+1157,1180,126,Department of Defense,2.0,Defense
+1158,1181,126,Department of Defense,2.0,Defense
+1159,1182,126,Department of Defense,2.0,Defense
+1160,1183,126,Department of Defense,2.0,Defense
+1161,1184,126,Department of Defense,2.0,Defense
+1162,1185,126,Department of Defense,2.0,Defense
+1163,1186,126,Department of Defense,2.0,Defense
+1164,1187,126,Department of Defense,2.0,Defense
+1165,1188,126,Department of Defense,2.0,Defense
+1166,1189,126,Department of Defense,2.0,Defense
+1167,1190,126,Department of Defense,2.0,Defense
+1168,1191,126,Department of Defense,2.0,Defense
+1169,1192,126,Department of Defense,2.0,Defense
+1170,1193,126,Department of Defense,2.0,Defense
+1171,1194,126,Department of Defense,2.0,Defense
+1172,1195,126,Department of Defense,2.0,Defense
+1173,1196,126,Department of Defense,2.0,Defense
+1174,1197,126,Department of Defense,2.0,Defense
+1175,1198,126,Department of Defense,2.0,Defense
+1176,1199,126,Department of Defense,2.0,Defense
+1177,1200,126,Department of Defense,2.0,Defense
+1178,1201,126,Department of Defense,2.0,Defense
+1179,1202,126,Department of Defense,2.0,Defense
+1180,1203,126,Department of Defense,2.0,Defense
+1181,1204,126,Department of Defense,2.0,Defense
+1182,1205,126,Department of Defense,2.0,Defense
+1183,1206,126,Department of Defense,2.0,Defense
+1184,1207,126,Department of Defense,2.0,Defense
+1185,1208,126,Department of Defense,2.0,Defense
+1186,1209,126,Department of Defense,2.0,Defense
+1187,1210,126,Department of Defense,2.0,Defense
+1188,1211,126,Department of Defense,2.0,Defense
+1189,1212,126,Department of Defense,2.0,Defense
+1190,1213,126,Department of Defense,2.0,Defense
+1191,1214,126,Department of Defense,2.0,Defense
+1192,1215,126,Department of Defense,2.0,Defense
+1193,1216,126,Department of Defense,2.0,Defense
+1194,1217,126,Department of Defense,2.0,Defense
+1195,1218,126,Department of Defense,2.0,Defense
+1196,1219,126,Department of Defense,2.0,Defense
+1197,1220,126,Department of Defense,2.0,Defense
+1198,1221,126,Department of Defense,2.0,Defense
+1199,1222,126,Department of Defense,2.0,Defense
+1200,1223,126,Department of Defense,2.0,Defense
+1201,1224,126,Department of Defense,2.0,Defense
+1202,1225,126,Department of Defense,2.0,Defense
+1203,1226,126,Department of Defense,2.0,Defense
+1204,1227,126,Department of Defense,2.0,Defense
+1205,1228,126,Department of Defense,2.0,Defense
+1206,1229,126,Department of Defense,2.0,Defense
+1207,1230,126,Department of Defense,2.0,Defense
+1208,1231,126,Department of Defense,2.0,Defense
+1209,1232,126,Department of Defense,2.0,Defense
+1210,1233,126,Department of Defense,2.0,Defense
+1211,1234,126,Department of Defense,2.0,Defense
+1212,1235,126,Department of Defense,2.0,Defense
+1213,1236,126,Department of Defense,2.0,Defense
+1214,1237,126,Department of Defense,2.0,Defense
+1215,1238,126,Department of Defense,2.0,Defense
+1216,1239,126,Department of Defense,2.0,Defense
+1217,1240,126,Department of Defense,2.0,Defense
+1218,1241,126,Department of Defense,2.0,Defense
+1219,1242,126,Department of Defense,2.0,Defense
+1220,1243,126,Department of Defense,2.0,Defense
+1221,1244,126,Department of Defense,2.0,Defense
+1222,1245,126,Department of Defense,2.0,Defense
+1223,1246,126,Department of Defense,2.0,Defense
+1224,1247,126,Department of Defense,2.0,Defense
+1225,1248,126,Department of Defense,2.0,Defense
+1226,1249,126,Department of Defense,2.0,Defense
+1227,1250,126,Department of Defense,2.0,Defense
+1228,1251,126,Department of Defense,2.0,Defense
+1229,1252,126,Department of Defense,2.0,Defense
+1230,13,5,Government Accountability Office,1.0,General public services
+1231,1253,126,Department of Defense,2.0,Defense
+1232,1254,126,Department of Defense,2.0,Defense
+1233,1255,126,Department of Defense,2.0,Defense
+1234,1256,126,Department of Defense,2.0,Defense
+1235,1257,126,Department of Defense,2.0,Defense
+1236,1258,126,Department of Defense,2.0,Defense
+1237,1259,126,Department of Defense,2.0,Defense
+1238,1260,126,Department of Defense,2.0,Defense
+1239,1261,126,Department of Defense,2.0,Defense
+1240,1262,126,Department of Defense,2.0,Defense
+1241,1263,126,Department of Defense,2.0,Defense
+1242,1264,126,Department of Defense,2.0,Defense
+1243,1265,126,Department of Defense,2.0,Defense
+1244,1266,126,Department of Defense,2.0,Defense
+1245,1267,126,Department of Defense,2.0,Defense
+1246,1268,126,Department of Defense,2.0,Defense
+1247,1269,126,Department of Defense,2.0,Defense
+1248,1270,126,Department of Defense,2.0,Defense
+1249,1271,126,Department of Defense,2.0,Defense
+1250,1272,126,Department of Defense,2.0,Defense
+1251,1273,126,Department of Defense,2.0,Defense
+1252,1274,126,Department of Defense,2.0,Defense
+1253,1275,126,Department of Defense,2.0,Defense
+1254,1276,126,Department of Defense,2.0,Defense
+1255,1277,126,Department of Defense,2.0,Defense
+1256,1278,126,Department of Defense,2.0,Defense
+1257,1279,126,Department of Defense,2.0,Defense
+1258,1280,126,Department of Defense,2.0,Defense
+1259,1281,126,Department of Defense,2.0,Defense
+1260,1282,126,Department of Defense,2.0,Defense
+1261,1283,126,Department of Defense,2.0,Defense
+1262,1284,126,Department of Defense,2.0,Defense
+1263,1285,126,Department of Defense,2.0,Defense
+1264,1286,126,Department of Defense,2.0,Defense
+1265,1287,126,Department of Defense,2.0,Defense
+1266,1288,126,Department of Defense,2.0,Defense
+1267,1289,126,Department of Defense,2.0,Defense
+1268,1290,126,Department of Defense,2.0,Defense
+1269,1291,126,Department of Defense,2.0,Defense
+1270,1292,126,Department of Defense,2.0,Defense
+1271,1293,126,Department of Defense,2.0,Defense
+1272,1294,126,Department of Defense,2.0,Defense
+1273,1295,126,Department of Defense,2.0,Defense
+1274,1296,126,Department of Defense,2.0,Defense
+1275,1297,126,Department of Defense,2.0,Defense
+1276,1298,126,Department of Defense,2.0,Defense
+1277,1299,126,Department of Defense,2.0,Defense
+1278,1300,126,Department of Defense,2.0,Defense
+1279,1301,126,Department of Defense,2.0,Defense
+1280,1302,126,Department of Defense,2.0,Defense
+1281,1303,126,Department of Defense,2.0,Defense
+1282,1304,126,Department of Defense,2.0,Defense
+1283,1305,126,Department of Defense,2.0,Defense
+1284,1306,126,Department of Defense,2.0,Defense
+1285,1307,126,Department of Defense,2.0,Defense
+1286,1308,126,Department of Defense,2.0,Defense
+1287,1309,126,Department of Defense,2.0,Defense
+1288,1310,126,Department of Defense,2.0,Defense
+1289,1311,126,Department of Defense,2.0,Defense
+1290,1312,126,Department of Defense,2.0,Defense
+1291,1313,126,Department of Defense,2.0,Defense
+1292,1314,126,Department of Defense,2.0,Defense
+1293,1315,126,Department of Defense,2.0,Defense
+1294,1316,126,Department of Defense,2.0,Defense
+1295,1317,126,Department of Defense,2.0,Defense
+1296,1318,126,Department of Defense,2.0,Defense
+1297,1321,126,Department of Defense,2.0,Defense
+1298,1322,126,Department of Defense,2.0,Defense
+1299,1323,126,Department of Defense,2.0,Defense
+1300,1324,126,Department of Defense,2.0,Defense
+1301,1325,126,Department of Defense,2.0,Defense
+1302,1326,126,Department of Defense,2.0,Defense
+1303,1327,126,Department of Defense,2.0,Defense
+1304,1328,126,Department of Defense,2.0,Defense
+1305,1329,126,Department of Defense,2.0,Defense
+1306,1330,126,Department of Defense,2.0,Defense
+1307,1331,126,Department of Defense,2.0,Defense
+1308,1332,126,Department of Defense,2.0,Defense
+1309,1333,126,Department of Defense,2.0,Defense
+1310,1334,126,Department of Defense,2.0,Defense
+1311,1335,126,Department of Defense,2.0,Defense
+1312,1336,126,Department of Defense,2.0,Defense
+1313,1337,126,Department of Defense,2.0,Defense
+1314,1338,126,Department of Defense,2.0,Defense
+1315,1339,126,Department of Defense,2.0,Defense
+1316,1340,126,Department of Defense,2.0,Defense
+1317,1341,126,Department of Defense,2.0,Defense
+1318,1342,126,Department of Defense,2.0,Defense
+1319,1343,126,Department of Defense,2.0,Defense
+1320,1344,126,Department of Defense,2.0,Defense
+1321,1345,126,Department of Defense,2.0,Defense
+1322,1346,126,Department of Defense,2.0,Defense
+1323,1347,126,Department of Defense,2.0,Defense
+1324,1348,126,Department of Defense,2.0,Defense
+1325,1349,126,Department of Defense,2.0,Defense
+1326,1350,126,Department of Defense,2.0,Defense
+1327,1351,126,Department of Defense,2.0,Defense
+1328,1352,126,Department of Defense,2.0,Defense
+1329,1353,126,Department of Defense,2.0,Defense
+1330,1354,126,Department of Defense,2.0,Defense
+1331,1355,126,Department of Defense,2.0,Defense
+1332,1356,126,Department of Defense,2.0,Defense
+1333,1357,126,Department of Defense,2.0,Defense
+1334,1358,126,Department of Defense,2.0,Defense
+1335,1359,126,Department of Defense,2.0,Defense
+1336,1360,126,Department of Defense,2.0,Defense
+1337,1361,126,Department of Defense,2.0,Defense
+1338,1362,126,Department of Defense,2.0,Defense
+1339,1363,126,Department of Defense,2.0,Defense
+1340,1364,126,Department of Defense,2.0,Defense
+1341,1365,126,Department of Defense,2.0,Defense
+1342,14,6,Congressional Budget Office,1.0,General public services
+1343,15,7,Legislative Branch Boards and Commissions,1.0,General public services
+1344,1366,126,Department of Defense,2.0,Defense
+1345,1367,126,Department of Defense,2.0,Defense
+1346,1368,126,Department of Defense,2.0,Defense
+1347,1369,126,Department of Defense,2.0,Defense
+1348,1370,126,Department of Defense,2.0,Defense
+1349,1371,126,Department of Defense,2.0,Defense
+1350,1372,126,Department of Defense,2.0,Defense
+1351,1373,126,Department of Defense,2.0,Defense
+1352,1374,126,Department of Defense,2.0,Defense
+1353,1375,126,Department of Defense,2.0,Defense
+1354,1376,126,Department of Defense,2.0,Defense
+1355,1377,126,Department of Defense,2.0,Defense
+1356,1378,126,Department of Defense,2.0,Defense
+1357,1379,126,Department of Defense,2.0,Defense
+1358,1380,126,Department of Defense,2.0,Defense
+1359,1381,126,Department of Defense,2.0,Defense
+1360,1382,126,Department of Defense,2.0,Defense
+1361,1383,126,Department of Defense,2.0,Defense
+1362,1384,126,Department of Defense,2.0,Defense
+1363,1385,126,Department of Defense,2.0,Defense
+1364,1386,126,Department of Defense,2.0,Defense
+1365,1387,126,Department of Defense,2.0,Defense
+1366,1388,126,Department of Defense,2.0,Defense
+1367,1389,126,Department of Defense,2.0,Defense
+1368,1390,126,Department of Defense,2.0,Defense
+1369,1391,126,Department of Defense,2.0,Defense
+1370,1392,126,Department of Defense,2.0,Defense
+1371,1393,126,Department of Defense,2.0,Defense
+1372,1394,126,Department of Defense,2.0,Defense
+1373,1395,126,Department of Defense,2.0,Defense
+1374,1396,126,Department of Defense,2.0,Defense
+1375,1397,126,Department of Defense,2.0,Defense
+1376,1398,126,Department of Defense,2.0,Defense
+1377,1399,126,Department of Defense,2.0,Defense
+1378,1400,126,Department of Defense,2.0,Defense
+1379,1401,126,Department of Defense,2.0,Defense
+1380,1402,126,Department of Defense,2.0,Defense
+1381,1403,126,Department of Defense,2.0,Defense
+1382,1404,126,Department of Defense,2.0,Defense
+1383,1405,126,Department of Defense,2.0,Defense
+1384,1406,126,Department of Defense,2.0,Defense
+1385,1407,126,Department of Defense,2.0,Defense
+1386,1408,126,Department of Defense,2.0,Defense
+1387,1409,126,Department of Defense,2.0,Defense
+1388,1410,126,Department of Defense,2.0,Defense
+1389,1411,127,Neighborhood Reinvestment Corporation,6.0,Housing and community services
+1390,1412,128,Corps of Engineers - Civil Works,5.0,Environmental protection
+1391,1413,128,Corps of Engineers - Civil Works,5.0,Environmental protection
+1392,1414,128,Corps of Engineers - Civil Works,5.0,Environmental protection
+1393,1415,128,Corps of Engineers - Civil Works,5.0,Environmental protection
+1394,1416,129,Appalachian Regional Commission,4.0,Economic affairs
+1395,1417,130,National Council on Disability,10.0,Social protection
+1396,1418,131,Vietnam Education Foundation,9.0,Education
+1397,1473,131,Vietnam Education Foundation,9.0,Education
+1398,1419,132,Federal Home Loan Mortgage Corporation,6.0,Housing and community services
+1399,1420,133,Federal National Mortgage Association,6.0,Housing and community services
+1400,1421,134,"Federal Reserve System, Board of Governors",4.0,Economic affairs
+1401,1422,135,Surface Transportation Board,4.0,Economic affairs
+1402,1423,136,Institute of Museum and Library Services,8.0,"Recreation, culture and religion"
+1403,1474,136,Institute of Museum and Library Services,8.0,"Recreation, culture and religion"
+1404,1424,137,Eisenhower Exchange Fellowship Program,8.0,"Recreation, culture and religion"
+1405,1425,138,Dwight D. Eisenhower Memorial Commission,8.0,"Recreation, culture and religion"
+1406,1426,139,Commission for the Preservation of America's Heritage Abroad,8.0,"Recreation, culture and religion"
+1407,1427,140,Medicare Payment Advisory Commission,7.0,Health
+1408,1428,141,Congressional-Executive Commission on People's Republic of China,1.0,General public services
+1409,1429,142,United States-China Economic and Security Review Commission,1.0,General public services
+1410,1430,143,United States Commission on International Religious Freedom,8.0,"Recreation, culture and religion"
+1411,1431,144,Northern Border Regional Commission,6.0,Housing and community services
+1412,1432,145,Abraham Lincoln Bicentennial Commission,1.0,General public services
+1413,1433,146,National Commission on Libraries and Information Science,8.0,"Recreation, culture and religion"
+1414,1434,147,Department of the Navy,2.0,Defense
+1415,1435,148,Department of the Army,2.0,Defense
+1416,16,7,Legislative Branch Boards and Commissions,1.0,General public services
+1417,17,7,Legislative Branch Boards and Commissions,1.0,General public services
+1418,18,7,Legislative Branch Boards and Commissions,1.0,General public services
+1419,19,7,Legislative Branch Boards and Commissions,1.0,General public services
+1420,20,7,Legislative Branch Boards and Commissions,1.0,General public services
+1421,21,7,Legislative Branch Boards and Commissions,1.0,General public services
+1422,22,7,Legislative Branch Boards and Commissions,1.0,General public services
+1423,23,7,Legislative Branch Boards and Commissions,1.0,General public services
+1424,24,7,Legislative Branch Boards and Commissions,1.0,General public services
+1425,25,7,Legislative Branch Boards and Commissions,1.0,General public services
+1426,26,7,Legislative Branch Boards and Commissions,1.0,General public services
+1427,27,7,Legislative Branch Boards and Commissions,1.0,General public services
+1428,28,8,The Judicial Branch,3.0,Public order and safety
+1429,29,8,The Judicial Branch,3.0,Public order and safety
+1430,30,8,The Judicial Branch,3.0,Public order and safety
+1431,31,8,The Judicial Branch,3.0,Public order and safety
+1432,32,8,The Judicial Branch,3.0,Public order and safety
+1433,1319,126,Department of Defense,2.0,Defense
+1434,1320,126,Department of Defense,2.0,Defense
+1435,1436,149,Department of the Air Force,2.0,Defense
+1436,1437,150,Federal Emergency Management Agency,10.0,Social protection
+1437,1438,150,Federal Emergency Management Agency,10.0,Social protection
+1438,1439,150,Federal Emergency Management Agency,10.0,Social protection
+1439,1440,150,Federal Emergency Management Agency,10.0,Social protection
+1440,1441,150,Federal Emergency Management Agency,10.0,Social protection
+1441,1442,150,Federal Emergency Management Agency,10.0,Social protection
+1442,1443,150,Federal Emergency Management Agency,10.0,Social protection
+1443,1444,150,Federal Emergency Management Agency,10.0,Social protection
+1444,1445,150,Federal Emergency Management Agency,10.0,Social protection
+1445,1446,150,Federal Emergency Management Agency,10.0,Social protection
+1446,1447,150,Federal Emergency Management Agency,10.0,Social protection
+1447,1448,150,Federal Emergency Management Agency,10.0,Social protection
+1448,1449,150,Federal Emergency Management Agency,10.0,Social protection
+1449,1450,150,Federal Emergency Management Agency,10.0,Social protection
+1450,1451,151,Advisory Commission on Intergovernmental Relations,1.0,General public services
+1451,1452,152,Other Independent Agencies,1.0,General public services
+1452,1453,152,Other Independent Agencies,1.0,General public services
+1453,1454,152,Other Independent Agencies,1.0,General public services
+1454,1455,152,Other Independent Agencies,1.0,General public services
+1455,1456,152,Other Independent Agencies,1.0,General public services
+1456,1457,152,Other Independent Agencies,1.0,General public services
+1457,1458,152,Other Independent Agencies,1.0,General public services
+1458,1459,152,Other Independent Agencies,1.0,General public services
+1459,1460,152,Other Independent Agencies,1.0,General public services
+1460,1461,153,Pennsylvania Avenue Development Corporation,6.0,Housing and community services
+1461,1462,154,Other Small Agencies,1.0,General public services
+1462,1463,154,Other Small Agencies,1.0,General public services
+1463,1464,154,Other Small Agencies,1.0,General public services
+1464,1465,154,Other Small Agencies,1.0,General public services
+1465,1466,155,U.S. Arms Control and Disarmament Agency,3.0,Public order and safety
+1466,1467,156,Temporary Commissions,2.0,Defense
+1467,1468,156,Temporary Commissions,2.0,Defense
+1468,1469,156,Temporary Commissions,2.0,Defense
+1469,1470,156,Temporary Commissions,2.0,Defense
+1470,1471,157,Resolution Funding Corporation,4.0,Economic affairs
+1471,1472,157,Resolution Funding Corporation,4.0,Economic affairs
